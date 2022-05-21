@@ -16,23 +16,23 @@ import {
 } from '@discord-message-components/vue';
 import DocsLink from './components/DocsLink.vue';
 import ResultingCode from './components/ResultingCode.vue';
-import djsAvatar from './assets/discord-avatar-djs.png';
+import Avatar from './assets/avatar.png';
 import '@discord-message-components/vue/dist/style.css';
 
 export default defineClientAppEnhance(({ app }) => {
 	app.use(DiscordMessageComponents, {
 		avatars: {
-			djs: djsAvatar,
+			default: Avatar,
 		},
 		profiles: {
+			bot: {
+				author: 'Horizon',
+				avatar: 'default',
+				bot: true
+			},
 			user: {
 				author: 'User',
-				avatar: 'djs',
-			},
-			bot: {
-				author: 'Guide Bot',
-				avatar: 'green',
-				bot: true,
+				avatar: 'green'
 			},
 		},
 	});

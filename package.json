@@ -1,6 +1,5 @@
 {
-    "name": "discord.js-guide",
-    "description": "Imagine a guide... that explores the many possibilities for your discord.js bot.",
+    "name": "docs.trtle.xyz",
     "version": "3.0.0",
     "private": true,
     "scripts": {
@@ -8,15 +7,8 @@
         "dev": "vuepress dev guide",
         "build": "NODE_ENV=production vuepress build guide"
     },
-    "repository": "https://github.com/discordjs/guide.git",
-    "keywords": [
-        "discord",
-        "bot",
-        "guide",
-        "tutorial",
-        "javascript",
-        "node"
-    ],
+    "repository": "https://github.com/turtlepaw/docs.trtle.xyz.git",
+    "keywords": [],
     "author": "Sanctuary <sanc.pw@gmail.com>",
     "contributors": [
         "dragonfire535 <danielbodendahl@gmail.com>",
@@ -26,9 +18,9 @@
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/discordjs/guide/issues"
+        "url": "https://github.com/turtlepaw/docs.trtle.xyz/issues"
     },
-    "homepage": "https://discordjs.guide",
+    "homepage": "https://docs.trtle.xyz/",
     "devDependencies": {
         "@vuepress/plugin-docsearch": "^2.0.0-beta.24",
         "@vuepress/plugin-google-analytics": "^2.0.0-beta.24",
