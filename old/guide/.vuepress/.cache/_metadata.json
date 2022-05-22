@@ -1,0 +1,36 @@
+{
+  "hash": "743540ab",
+  "browserHash": "2590fcc8",
+  "optimized": {
+    "@discord-message-components/vue": {
+      "file": "/home/turtlepaw/docs.trtle.xyz/guide/.vuepress/.cache/@discord-message-components_vue.js",
+      "src": "/home/turtlepaw/docs.trtle.xyz/node_modules/@discord-message-components/vue/dist/vue.es.js",
+      "needsInterop": false
+    },
+    "vue": {
+      "file": "/home/turtlepaw/docs.trtle.xyz/guide/.vuepress/.cache/vue.js",
+      "src": "/home/turtlepaw/docs.trtle.xyz/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "/home/turtlepaw/docs.trtle.xyz/guide/.vuepress/.cache/vue-router.js",
+      "src": "/home/turtlepaw/docs.trtle.xyz/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "file": "/home/turtlepaw/docs.trtle.xyz/guide/.vuepress/.cache/@vuepress_shared.js",
+      "src": "/home/turtlepaw/docs.trtle.xyz/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "/home/turtlepaw/docs.trtle.xyz/guide/.vuepress/.cache/@vueuse_core.js",
+      "src": "/home/turtlepaw/docs.trtle.xyz/node_modules/@vueuse/core/index.esm.js",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "/home/turtlepaw/docs.trtle.xyz/guide/.vuepress/.cache/nprogress.js",
+      "src": "/home/turtlepaw/docs.trtle.xyz/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    }
+  }
+}

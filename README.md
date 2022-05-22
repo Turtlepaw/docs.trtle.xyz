@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="guide/images/branding/banner.png" title="Horizon Docs" alt="Horizon Docs" />
+	<img src="static/img/banner.png" title="Horizon Docs" alt="Horizon Docs" />
 </div>
 
 # Horizon Documenation
